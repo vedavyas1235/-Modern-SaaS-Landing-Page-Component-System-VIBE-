@@ -178,11 +178,6 @@ MIT License
 4. Push to the branch  
 5. Open a Pull Request  
 
-## 📞 Support
-
-- Create an issue in the repository  
-- Contact: [your-email@domain.com]  
-- Documentation: [your-docs-url]  
 
 ## 🎉 Acknowledgments
 
